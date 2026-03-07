@@ -1,5 +1,3 @@
 # divv_1888
-  example.java
+This is my git 
 ## author
-Divyanshu
-/README.md
